@@ -16,19 +16,21 @@ criaCartao(
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
 
 criaCartao(
-     'Lingua inglesa',
-     'Como se diz músculo em inglês?',
-     'Musculo em inglês é Muscle',
-
+     'Lingua Inglesa',
+     'Como e diz músculo em Inglês',
+     'Músculo em inglês é Muscle'
 )
-
-criacartao(
   
-  )
+criaCartao(
+     'Free fire',
+     'Qual o nome primeiro passe de elite',
+     'O nome do primeiro passe é Kitsune'
+)
+
+criaCartao(
+     'Fisiculurismo',
+     'Quantas vezes Ronnie Coleman foi Mr. Olympia?',
+     'Ronnie Coleman foi Mr. Olympia oito vezes consecutivas, de 1998 a 2005'
+)
